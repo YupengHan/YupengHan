@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @YupengHan
 - 👀 I’m interested in computer vision in robotic application
-- 🌱 I’m currently learning SWIFT, SLAM
+- 🌱 I’m currently learning SLAM
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
